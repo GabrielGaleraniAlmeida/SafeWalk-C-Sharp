@@ -1,0 +1,23 @@
+{
+  "openApi": "3.0.4",
+  "paths": [
+    "/",
+    "/api/dashboard/reports",
+    "/api/journeys",
+    "/api/journeys/{id}/complete",
+    "/api/journeys/{id}/location",
+    "/api/journeys/shared/{shareToken}",
+    "/api/reports",
+    "/api/reports/{id}",
+    "/api/reports/{id}/confirm",
+    "/api/reports/{id}/resolve",
+    "/api/routes/compare",
+    "/api/sos-alerts",
+    "/api/sos-alerts/{id}",
+    "/api/sos-alerts/{id}/advance",
+    "/api/sos-alerts/{id}/cancel",
+    "/health"
+  ],
+  "version": "1.0",
+  "title": "SafeWalk.Api"
+}

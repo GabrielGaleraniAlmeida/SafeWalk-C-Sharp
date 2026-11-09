@@ -1,0 +1,35 @@
+{
+  "resolved": {
+    "id": "f3cc11fa-8043-4627-a808-cfe2c3920299",
+    "category": 4,
+    "description": "Calçada com desnível (relato demonstrativo da API).",
+    "latitude": -23.5512,
+    "longitude": -46.6333,
+    "createdAtUtc": "2026-11-09T16:00:29.9879972Z",
+    "expiresAtUtc": null,
+    "confirmationCount": 1,
+    "isActive": false
+  },
+  "created": {
+    "id": "f3cc11fa-8043-4627-a808-cfe2c3920299",
+    "category": 4,
+    "description": "Calçada com desnível (relato demonstrativo da API).",
+    "latitude": -23.5512,
+    "longitude": -46.6333,
+    "createdAtUtc": "2026-11-09T16:00:29.9879972Z",
+    "expiresAtUtc": null,
+    "confirmationCount": 0,
+    "isActive": true
+  },
+  "confirmed": {
+    "id": "f3cc11fa-8043-4627-a808-cfe2c3920299",
+    "category": 4,
+    "description": "Calçada com desnível (relato demonstrativo da API).",
+    "latitude": -23.5512,
+    "longitude": -46.6333,
+    "createdAtUtc": "2026-11-09T16:00:29.9879972Z",
+    "expiresAtUtc": null,
+    "confirmationCount": 1,
+    "isActive": true
+  }
+}

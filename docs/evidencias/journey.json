@@ -1,0 +1,15 @@
+{
+  "journeyId": "[redigido]",
+  "positionReturned": true,
+  "startedAtUtc": "[redigido]",
+  "expiresAtUtc": "[redigido]",
+  "sharedLocation": {
+    "latitude": "[redigida]",
+    "longitude": "[redigida]",
+    "lastUpdatedAtUtc": "[redigido]",
+    "expiresAtUtc": "[redigido]"
+  },
+  "secretsRedacted": true,
+  "coordinatesRedacted": true,
+  "timestampsRedacted": true
+}

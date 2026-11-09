@@ -164,4 +164,4 @@ Os arquivos em [`docs/evidencias`](docs/evidencias/README.md) são respostas cap
 .\scripts\gerar-evidencias.ps1
 ```
 
-O script salva respostas de saúde, relatos, comparação de rotas, localização compartilhada, SOS e painel. Tokens de controle e links ativos são removidos antes de salvar as evidências.
+O script salva respostas de saúde, relatos, comparação de rotas, localização compartilhada, SOS e painel. Tokens, links ativos, coordenadas e horários exatos da jornada são redigidos antes de salvar as evidências.

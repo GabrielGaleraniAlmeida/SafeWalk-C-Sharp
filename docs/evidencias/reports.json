@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ff543bcd-a721-4618-b2f0-45f328e3562e",
+    "category": 1,
+    "description": "Relato de roubo de celular perto do cruzamento.",
+    "latitude": -23.5509,
+    "longitude": -46.6342,
+    "createdAtUtc": "2026-11-09T15:35:09.4716837Z",
+    "expiresAtUtc": "2026-11-09T19:35:09.4716837Z",
+    "confirmationCount": 0,
+    "isActive": true
+  },
+  {
+    "id": "6deeb0e2-2e3d-47d2-9eaf-9c1f0e2a495d",
+    "category": 4,
+    "description": "Calçada danificada; caminhe com atenção.",
+    "latitude": -23.5488,
+    "longitude": -46.635,
+    "createdAtUtc": "2026-11-09T14:00:09.4716837Z",
+    "expiresAtUtc": null,
+    "confirmationCount": 0,
+    "isActive": true
+  },
+  {
+    "id": "57787cb9-10f9-4454-a94d-ed1d24afa385",
+    "category": 5,
+    "description": "Trecho com iluminação pública insuficiente.",
+    "latitude": -23.552,
+    "longitude": -46.6328,
+    "createdAtUtc": "2026-11-09T13:00:09.4716837Z",
+    "expiresAtUtc": null,
+    "confirmationCount": 0,
+    "isActive": true
+  }
+]

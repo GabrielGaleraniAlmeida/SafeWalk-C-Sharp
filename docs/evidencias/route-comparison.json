@@ -1,0 +1,49 @@
+{
+  "departureAtUtc": "2026-11-09T16:00:36.5263821Z",
+  "options": [
+    {
+      "name": "Mais rápida",
+      "durationMinutes": 14,
+      "riskScore": 25.9,
+      "riskLevel": "Moderado",
+      "isSafest": false,
+      "isFastest": true,
+      "segments": [
+        {
+          "latitude": -23.5509,
+          "longitude": -46.6342,
+          "riskScore": 25.9,
+          "riskLevel": "Moderado",
+          "activeReports": 3,
+          "simulatedCameraCoverage": false
+        }
+      ]
+    },
+    {
+      "name": "Mais segura",
+      "durationMinutes": 17,
+      "riskScore": 15.2,
+      "riskLevel": "Baixo",
+      "isSafest": true,
+      "isFastest": false,
+      "segments": [
+        {
+          "latitude": -23.5488,
+          "longitude": -46.635,
+          "riskScore": 17.3,
+          "riskLevel": "Baixo",
+          "activeReports": 3,
+          "simulatedCameraCoverage": true
+        },
+        {
+          "latitude": -23.548,
+          "longitude": -46.632,
+          "riskScore": 13.1,
+          "riskLevel": "Baixo",
+          "activeReports": 3,
+          "simulatedCameraCoverage": false
+        }
+      ]
+    }
+  ]
+}

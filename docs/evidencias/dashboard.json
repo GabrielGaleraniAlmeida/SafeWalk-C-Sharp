@@ -1,0 +1,21 @@
+{
+  "startUtc": "2026-10-10T16:00:53.5613032Z",
+  "endUtc": "2026-11-09T16:00:53.5711729Z",
+  "generatedAtUtc": "2026-11-09T16:00:55.6754589Z",
+  "totalReports": 4,
+  "activeReports": 3,
+  "byCategory": [
+    {
+      "category": 4,
+      "count": 2
+    },
+    {
+      "category": 1,
+      "count": 1
+    },
+    {
+      "category": 5,
+      "count": 1
+    }
+  ]
+}

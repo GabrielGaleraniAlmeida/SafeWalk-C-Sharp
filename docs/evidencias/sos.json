@@ -1,0 +1,16 @@
+{
+  "stages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "id": "94af1b88-c984-46c9-b6b8-40fc24c3e240",
+  "descriptions": [
+    "Aguardando confirmação de segurança",
+    "Contatos de confiança notificados (simulado)",
+    "Central da GCM notificada (simulado)",
+    "Alerta cancelado com PIN"
+  ],
+  "pinRedacted": true
+}
