@@ -2,6 +2,14 @@
 
 Backend em C#/.NET da proposta CitizenTech SafeWalk, desenvolvida para a Global Solution FIAP. A API apoia caminhadas mais seguras em São Paulo com comparação de rotas, relatos colaborativos, acompanhamento temporário de trajeto e alertas SOS.
 
+## Integrantes
+
+- Gustavo Alves — RM 557876
+- Gabriel Dias — RM 556830
+- Gabriel Galerani — RM 557421
+- Leonardo Taschin — RM 554583
+- Enzo Dias — RM 558225
+
 ## O que a aplicação faz
 
 - Compara duas a quatro alternativas de rota. Cada opção recebe uma pontuação de risco por trecho e uma classificação de risco; a resposta identifica a alternativa mais segura e a mais rápida.
